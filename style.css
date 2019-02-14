@@ -1,0 +1,9 @@
+body {background-color: lightgrey;
+color: white;
+font-family: helvetica;}
+
+.wrapper {margin-left:30%;
+margin-right:30%;}
+
+img {float:left;
+padding: 4%;}
